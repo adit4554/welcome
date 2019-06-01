@@ -1,2 +1,0 @@
-# welcome
-membuat page welcome
